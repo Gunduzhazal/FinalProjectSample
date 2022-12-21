@@ -10,6 +10,11 @@ public class Main {
         Fxron.size = "4242km";
         Fxron.temp = "2345678k";
 
+        Planet2 hazel = new Planet2();
+        hazel.color = "pink";
+        hazel.size = 3245;
+        hazel.rings = "1";
+        hazel.temperature = "4567";
 
 
     }
